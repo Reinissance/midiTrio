@@ -2,7 +2,7 @@
 
 A midi accompaignant application for mobiles created with [Pure Data](https://puredata.info/) and [MobMuPlat](https://danieliglesia.com/mobmuplat/).
 
-You need an multitimbral Soundmodule or Keyboard to use it, the app does not produce any sound itself. You could also install [plugdata](https://plugdata.org/) and setup your DAW to use your favourite plugins.
+You need an multitimbral GM Soundmodule or Keyboard to use it, the app does not produce any sound itself. You could also install [plugdata](https://plugdata.org/) and setup your DAW to use your favourite plugins.
 
 ![MobMuPlat GUI Screenshot](./img/gui.png)
 
@@ -19,7 +19,7 @@ The app takes the midi input and analyses played notes as chords to provide scal
 
 ## For whom is this?
 
-I created this to have more fun while practicing scales or chord progressions on the piano. Due to the ability to create Songs and Presets you can also use it as One-manband or solo entertainer.
+I created this to have more fun while practising scales or chord progressions on the piano. Due to the ability to create Songs and Presets you can also use it as one-man band or solo entertainer.
 
 ## Usage
 
