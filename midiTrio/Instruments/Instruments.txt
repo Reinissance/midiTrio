@@ -1,0 +1,12 @@
+Bass_walkOne5.txt;
+Bass_walkUp.txt;
+Chop_Sharp.txt;
+BassDrum_downOnThree.txt;
+Rim_mustBeThree.txt;
+Piano_FullRange.txt;
+Bass_upWalkScale.txt;
+Bass_downWalkScale.txt;
+Bass_muchA5.txt;
+HiHat_simple24withVelAdds.txt;
+BassDrum_OneThreePlusWithVelAdds.txt;
+Snare_Simple3.txt;

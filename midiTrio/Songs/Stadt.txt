@@ -1,0 +1,9 @@
+setInstruments Piano 1 HiHat 16 BassDrum 16 Snare 8 Bass 16 Strings
+8 openHat 8 Guitar 32;
+swing 11;
+bpm 127;
+midiAssPreset-Selection-0Chn 1;
+midiAssPreset-Selection-0Ctl 16;
+setPresets plain rimBeat openSnare RideBell rideRim;
+midiAssPlay-Button-0Chn 1;
+midiAssPlay-Button-0Ctl 3;

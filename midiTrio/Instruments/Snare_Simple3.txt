@@ -1,0 +1,23 @@
+/Pan 0.5;
+/velInToProb 1;
+/Pgm 0;
+/instSeqLength 1;
+/seqMode symbol Eighths;
+/readRand 0;
+seq 0 0 0 0 0 0 0 0.0718401;
+seqFixPosSlider fromPreset 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0;
+/seqNote 0.301388;
+/seqOverlap 0 0 1;
+/legStac 1;
+/legStacRand 0.5;
+/randNoteVals 0 0 0.02 0.98 0;
+/velRange 0.25;
+/velCenter 0.742188;
+/outChannel 9;
+/inChannel 1;
+/velOutAboveTrans 0.561581;
+/velOutBelowTrans 0;
+/noteInBelow_1 0;
+/noteInBelow_3 0;
+/noteInBelow_2 0;
